@@ -1,0 +1,4 @@
+CREATE DATABASE [test]
+ON (FILENAME=N'C:\ZAMMS\test.mdf'),
+(FILENAME=N'C:\ZAMMS\test_log.ldf')
+FOR ATTACH;

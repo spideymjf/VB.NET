@@ -1,0 +1,13 @@
+ALTER TABLE dbo.Facture
+ADD CONSTRAINT fk_Facture_CodeClient
+FOREIGN KEY (Code_client)
+REFERENCES dbo.Client(Code_client)
+ON UPDATE CASCADE
+ON DELETE CASCADE;
+
+ALTER TABLE dbo.Detail_Facture
+ADD CONSTRAINT fk_Detail_Facture_NumFacture
+FOREIGN KEY (NumFacture)
+REFERENCES Facture(NumFacture)
+ON UPDATE CASCADE
+ON DELETE CASCADE;

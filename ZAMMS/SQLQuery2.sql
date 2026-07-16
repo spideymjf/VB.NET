@@ -1,0 +1,1 @@
+EXEC SP_DETACH_DB 'TEST' , 'TRUE' ;

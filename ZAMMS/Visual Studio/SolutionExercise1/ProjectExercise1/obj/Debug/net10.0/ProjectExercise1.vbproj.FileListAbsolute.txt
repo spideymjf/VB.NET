@@ -1,0 +1,14 @@
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\bin\Debug\net10.0\ProjectExercise1.exe
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\bin\Debug\net10.0\ProjectExercise1.deps.json
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\bin\Debug\net10.0\ProjectExercise1.runtimeconfig.json
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\bin\Debug\net10.0\ProjectExercise1.dll
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\bin\Debug\net10.0\ProjectExercise1.pdb
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.AssemblyInfoInputs.cache
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.AssemblyInfo.vb
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.vbproj.CoreCompileInputs.cache
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.dll
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\refint\ProjectExercise1.dll
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.pdb
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ProjectExercise1.genruntimeconfig.cache
+C:\ZAMMS\Visual Studio\SolutionExercise1\ProjectExercise1\obj\Debug\net10.0\ref\ProjectExercise1.dll

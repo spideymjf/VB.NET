@@ -1,0 +1,60 @@
+INSERT INTO [dbo].[Detail_Facture]
+           ([Code_produit]
+           ,[Quantite]
+           ,[Prix_unitaire_HTVA]
+           ,[NumFacture]
+           ,[TVA])
+     VALUES
+     (
+           '1'
+           ,10
+           ,5.5
+           ,'0'
+           ,0.07
+           )
+;
+INSERT INTO [dbo].[Detail_Facture]
+           ([Code_produit]
+           ,[Quantite]
+           ,[Prix_unitaire_HTVA]
+           ,[NumFacture]
+           ,[TVA])
+     VALUES
+     (
+           '2'
+           ,2
+           ,53.5
+           ,'0'
+           ,0.10
+           )
+;
+INSERT INTO [dbo].[Detail_Facture]
+           ([Code_produit]
+           ,[Quantite]
+           ,[Prix_unitaire_HTVA]
+           ,[NumFacture]
+           ,[TVA])
+     VALUES
+     (
+           '3'
+           ,100
+           ,12
+           ,'0'
+           ,0.00
+           )
+;
+INSERT INTO [dbo].[Detail_Facture]
+           ([Code_produit]
+           ,[Quantite]
+           ,[Prix_unitaire_HTVA]
+           ,[NumFacture]
+           ,[TVA])
+     VALUES
+     (
+           '4'
+           ,25
+           ,3.5
+           ,'0'
+           ,0.12
+           )
+;

@@ -1,0 +1,70 @@
+﻿Imports System.Threading
+
+Public Class Form1
+    Public CompteurGlobal As Integer = 0
+
+    Dim IsFormLoaded As Boolean = False
+
+
+    ' Note: local (per-click) counter will be created inside the click handler so it does not persist
+
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        IsFormLoaded = True
+    End Sub
+
+    Private Sub TextBoxCompteurGlobal_Click(sender As Object, e As EventArgs) Handles TextBoxCompteurGlobal.Click
+
+    End Sub
+
+    Private Sub TextBoxCompteurLocal_Click(sender As Object, e As EventArgs) Handles TextBoxCompteurLocal.Click
+
+    End Sub
+
+    Private Sub ButtonIncrement_Click(sender As Object, e As EventArgs) Handles ButtonIncrement.Click
+        Try
+            If IsFormLoaded Then
+                ' Local counter is created per-click and captured by the timer's Tick handler.
+                Dim localCounter As Integer = 0
+                Dim maxIterations As Integer = 51 ' 0..50 inclusive -> 51 ticks
+                Dim ticks As Integer = 0
+
+                Dim localTimer As New System.Windows.Forms.Timer()
+                localTimer.Interval = 500
+
+                AddHandler localTimer.Tick, Sub(s, ev)
+                                                Try
+                                                    If ticks < maxIterations Then
+                                                        CompteurGlobal += 1
+                                                        ticks += 1
+                                                        localCounter = ticks
+                                                        TextBoxCompteurGlobal.Text = CompteurGlobal.ToString()
+                                                        TextBoxCompteurLocal.Text = localCounter.ToString()
+                                                    Else
+                                                        localTimer.Stop()
+                                                        localTimer.Dispose()
+                                                    End If
+                                                Catch ex As Exception
+                                                    Console.WriteLine(ex.Message)
+                                                    localTimer.Stop()
+                                                    localTimer.Dispose()
+                                                End Try
+                                            End Sub
+
+                localTimer.Start()
+            End If
+        Catch ex As Exception
+            Console.WriteLine(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub Form1_Closing(sender As Object, e As EventArgs) Handles MyBase.Closing
+        MessageBox.Show("Form is closing. ")
+    End Sub
+
+    Private Sub Form1_Closed(sender As Object, e As EventArgs) Handles MyBase.Closed
+        MessageBox.Show("Form is closed. Final CompteurGlobal value: " & CompteurGlobal.ToString() & " and Final CompteurLocal value: " & CompteurLocal.ToString())
+    End Sub
+
+
+End Class
