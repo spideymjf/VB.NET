@@ -1,7 +1,7 @@
 ﻿Imports System.Net
 
 Public Class FrmNbrLancement_IPAdress
-    Dim filePath As String = "C:\ZAMMS\Visual Studio\ProjectEx2\NbrLancementTextFile\NbrLancement.txt"
+    Dim filePath As String = "Pathfile\NbrLancement.txt"
     Dim launchCount As Integer
     Dim ipAddress As String
 
