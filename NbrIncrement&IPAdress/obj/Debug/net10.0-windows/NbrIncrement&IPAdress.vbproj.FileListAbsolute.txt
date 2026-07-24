@@ -1,0 +1,16 @@
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement_IPAdress.FrmNbrLancement_IPAdress.resources
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.vbproj.GenerateResource.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.AssemblyInfoInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.AssemblyInfo.vb
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.vbproj.CoreCompileInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\bin\Debug\net10.0-windows\NbrIncrement&IPAdress.exe
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\bin\Debug\net10.0-windows\NbrIncrement&IPAdress.deps.json
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\bin\Debug\net10.0-windows\NbrIncrement&IPAdress.runtimeconfig.json
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\bin\Debug\net10.0-windows\NbrIncrement&IPAdress.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\bin\Debug\net10.0-windows\NbrIncrement&IPAdress.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\refint\NbrIncrement&IPAdress.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\NbrIncrement&IPAdress.genruntimeconfig.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\NbrIncrement&IPAdress\obj\Debug\net10.0-windows\ref\NbrIncrement&IPAdress.dll

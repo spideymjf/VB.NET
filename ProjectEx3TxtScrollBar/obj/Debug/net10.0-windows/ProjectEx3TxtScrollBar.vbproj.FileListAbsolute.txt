@@ -1,0 +1,16 @@
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.FrmContainer.resources
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.vbproj.GenerateResource.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.AssemblyInfoInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.AssemblyInfo.vb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.vbproj.CoreCompileInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\bin\Debug\net10.0-windows\ProjectEx3TxtScrollBar.exe
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\bin\Debug\net10.0-windows\ProjectEx3TxtScrollBar.deps.json
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\bin\Debug\net10.0-windows\ProjectEx3TxtScrollBar.runtimeconfig.json
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\bin\Debug\net10.0-windows\ProjectEx3TxtScrollBar.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\bin\Debug\net10.0-windows\ProjectEx3TxtScrollBar.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\refint\ProjectEx3TxtScrollBar.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ProjectEx3TxtScrollBar.genruntimeconfig.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx3TxtScrollBar\obj\Debug\net10.0-windows\ref\ProjectEx3TxtScrollBar.dll

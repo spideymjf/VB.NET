@@ -1,0 +1,16 @@
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\bin\Debug\net10.0-windows\ProjectEx2.exe
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\bin\Debug\net10.0-windows\ProjectEx2.deps.json
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\bin\Debug\net10.0-windows\ProjectEx2.runtimeconfig.json
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\bin\Debug\net10.0-windows\ProjectEx2.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\bin\Debug\net10.0-windows\ProjectEx2.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.vbproj.GenerateResource.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.AssemblyInfoInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.AssemblyInfo.vb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.vbproj.CoreCompileInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\refint\ProjectEx2.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.genruntimeconfig.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ref\ProjectEx2.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\ProjectEx2\obj\Debug\net10.0-windows\ProjectEx2.FormLoginCount.resources
