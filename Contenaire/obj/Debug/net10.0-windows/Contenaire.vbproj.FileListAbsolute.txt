@@ -1,0 +1,16 @@
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.FrmContainer.resources
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.vbproj.GenerateResource.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.AssemblyInfoInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.AssemblyInfo.vb
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.vbproj.CoreCompileInputs.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\bin\Debug\net10.0-windows\Contenaire.exe
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\bin\Debug\net10.0-windows\Contenaire.deps.json
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\bin\Debug\net10.0-windows\Contenaire.runtimeconfig.json
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\bin\Debug\net10.0-windows\Contenaire.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\bin\Debug\net10.0-windows\Contenaire.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\refint\Contenaire.dll
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.pdb
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\Contenaire.genruntimeconfig.cache
+C:\ZAMMS\Visual Studio\ProjectEx2\Contenaire\obj\Debug\net10.0-windows\ref\Contenaire.dll
